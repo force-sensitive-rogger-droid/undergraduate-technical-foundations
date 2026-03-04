@@ -15,6 +15,6 @@ This repository is a professional migration of my original undergraduate work. A
 ### 📂 Περιεχόμενα
 Αναλυτικές λεπτομέρειες για κάθε εγκατάσταση, τα προβλήματα που επιλύθηκαν (debugging) και links προς τα live demos, θα βρείτε στο παρακάτω αρχείο:
 
-👉 **[Terminal Projects.md]([./project.md](https://github.com/force-sensitive-rogger-droid/undergraduate-technical-foundations/blob/main/Terminal%20Projects.md))**
+👉 **[Terminal Projects.md](https://github.com/force-sensitive-rogger-droid/undergraduate-technical-foundations/blob/main/Terminal%20Projects.md)**
 
 ---
