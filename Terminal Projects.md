@@ -1,10 +1,10 @@
-## download mp3 (Άσκηση γραμμής εντολών)
+## Download mp3 (Άσκηση γραμμής εντολών)
 <br>
 Αρχικά αντιμετώπισα κάποια προβλήματα εξαιτίας του ότι χρειαζόταν να έχω μία συγκεκριμένη έκδοση της python στο
 terminal και εγώ κατέβασα άλλη, παρόλα αυτά μετά από ψάξιμο σε διάφορα forum  βρήκα ότι η απάντηση ήταν η εγκατάσταση
 της python 2.7 και μετά από αυτό η εγκατάσταση έγινε και τα βίντεο όλα λειτουργούν.
 <br>
-<br><a href="https://asciinema.org/a/387892">download mp3</a>
+<br><a href="https://asciinema.org/a/387892">Download mp3</a>
 
 ### Βιβλιογραφία που χρησιμοποίησα:
 <a href="https://asciinema.org">asciinema</a>
@@ -57,4 +57,4 @@ terminal και εγώ κατέβασα άλλη, παρόλα αυτά μετά
 
 [myblog Repository](https://github.com/P2019SARAKATSANIS/myblog)
 
-[Github Pages](https://p2019sarakatsanis.github.io/myblog/)
+[The Blog](https://p2019sarakatsanis.github.io/myblog/)
