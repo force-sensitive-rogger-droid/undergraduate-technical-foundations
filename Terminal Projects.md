@@ -5,10 +5,6 @@ terminal και εγώ κατέβασα άλλη, παρόλα αυτά μετά
 της python 2.7 και μετά από αυτό η εγκατάσταση έγινε και τα βίντεο όλα λειτουργούν.
 <br>
 <br><a href="https://asciinema.org/a/387892">Download mp3</a>
-
-### Βιβλιογραφία που χρησιμοποίησα:
-<a href="https://asciinema.org">asciinema</a>
-<br><a href="https://linuxconcept.com/how-to-install-youtube-dl-on-ubuntu-20-04-linux-operating-system/">Πηγή πληροφοριών</a></ul>
 <br><br><br>
 
 ## Γραμμή εντολών (systemd)
@@ -35,20 +31,16 @@ terminal και εγώ κατέβασα άλλη, παρόλα αυτά μετά
 | 3 | [check the weather](https://asciinema.org/a/1jUA728xmCNGiSklViOzKA7VP) |
 | 4 | [fetch information](https://asciinema.org/a/N3GWhY7I7cTmzxqzTUmZQmpJJ) |
 
-<br><br>
-### Εργαλεία που χρησιμοποίησα:<br><br>
-
- - [Alpine Linux](https://www.alpinelinux.org)<br><br>
- - [VMware Workstation Player](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)<br><br>
- - [Asciinema](https://asciinema.org)<br><br>
 <br><br><br>
+
 ## Γραμμή εντολών (no systemd, custom static blog generator)
 
-Η άσκηση αφορούσε την δημιουργία ενός blog με την χρήση κάποιου static blog generator. 
-Εγώ χρησιμοποιήσα το bashblog που αποτελεί ένα script σε bash το οποίο σου επιτρέπει να 
+Για την άσκηση αυτή χρησιμοποίησα το Alpine Linux, το οποίο λειτουργεί με OpenRC (αντί για systemd), προσφέροντας ένα εξαιρετικά ελαφρύ περιβάλλον.
+
+Μέσω του terminal, υλοποίησα ένα τεχνικό blog χρησιμοποιώντας το bashblog. Πρόκειται για ένα script σε Bash που αυτοματοποιεί τη δημιουργία στατικών σελίδων (HTML/CSS). Το bashblog που αποτελεί ένα script σε bash το οποίο σου επιτρέπει να 
 δημιουργήσεις το δικό σου blog τρέχωντας απλά το πρόγραμμα αφού βέβαια έχεις κάνει export τον editor που 
 θα χρησιμοποιήσεις. Μπορείς να παραμετροποιήσεις το αρχείο bb.sh για να αλλάξεις τα στοιχεία του blog όπως 
-το όνομα του blog, το email του owner του blog, settings για τα analytics κτλ Αφού διαλέξεις να κάνεις ένα post 
+το όνομα του blog, το email του owner του blog, settings για τα analytics κτλ. Αφού διαλέξεις να κάνεις ένα post 
 δημιουργούνται τα αρχεία που απαρτίζουν το blog όπως το index.html, main.css κτλ.
 
 <br>
@@ -58,3 +50,9 @@ terminal και εγώ κατέβασα άλλη, παρόλα αυτά μετά
 [myblog Repository](https://github.com/P2019SARAKATSANIS/myblog)
 
 [The Blog](https://p2019sarakatsanis.github.io/myblog/)
+
+## Tech Stack & Resources
+ - [Alpine Linux](https://www.alpinelinux.org)<br><br>
+ - [VMware Workstation Player](https://www.vmware.com/content/vmware/vmware-published-sites/us/products/workstation-player/workstation-player-evaluation.html.html)
+ - [Asciinema](https://asciinema.org)
+- <br><a href="https://linuxconcept.com/how-to-install-youtube-dl-on-ubuntu-20-04-linux-operating-system/">Πηγή πληροφοριών</a></ul>
